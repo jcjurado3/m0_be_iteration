@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `each` method?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `each` method? I feel pretty confident using the each method. 
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? There were points in some of the challenges where I hit a wall but that pushed me to think about the way to search for an answer and reverted back to my notes and guides for specific terminalogy that would point me to the right solution.
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? I will need to practice and create new arrays to play around with. I liked the challenges.
+- What questions do you still have? How will you get the answers you need? I still have questions about the capabilities for array iteration methods. Reviewing different resources helped get to some solutions but seems like there is a lot to learn still.
